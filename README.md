@@ -1,2 +1,3 @@
 # gps_tracking
-GPS Tracking - { IndoSec }
+apt-get install -g php
+php gps.php
